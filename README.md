@@ -1,2 +1,2 @@
 # survival_shooter
-modifications to Unity 3D's tutorial project, Survival Shooter
+I've modified the tutorial project, Survival Shooter, to implement all new audio assets using FMOD.
