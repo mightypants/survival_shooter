@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/_CompletedAssets/Scripts/Enemy/EnemyMovement.cs">
+    <Files>
+      <File FileName="Assets/_CompletedAssets/Scripts/Enemy/EnemyMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Managers/EnemyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Managers/AudioManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Player/PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Enemy/EnemyHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Player/PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets/_CompletedAssets/Scripts/Player/PlayerShooting.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jdredge/Documents/Jstuff/Unity/survival shooter/Assets/_CompletedAssets/Scripts/Managers/EnemyManager.cs" line="39" />
+      <Breakpoint file="/Volumes/Henry/jslice/Documents/programming/Unity/survival shooter/Assets/_CompletedAssets/Scripts/Enemy/EnemyMovement.cs" line="69" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

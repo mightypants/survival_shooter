@@ -1,0 +1,10 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-7--1333018624
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=0 type=1 insize=5323 outsize=1571 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_ON DIRLIGHTMAP_ON ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=4908 outsize=1046 kw=LIGHTMAP_ON DIRLIGHTMAP_ON HDR_LIGHT_PREPASS_OFF ok=1
+End of pipe
+
+Quitting shader compiler process
